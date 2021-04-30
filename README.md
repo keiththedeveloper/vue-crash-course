@@ -1,19 +1,3 @@
-# vue-crash-2021
+# This project is from the [Vue JS Crash Course 2021](https://youtu.be/qZXt1Aom3Cs) from the [Traversy Media Youtube Channel](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### This is for my personal reference and learning
